@@ -5,5 +5,12 @@
     "amount": 10000,
     "status": "confirmed",
     "time": "2026-10-04T05:33:52.219Z"
+  },
+  {
+    "buyerId": "8517150569",
+    "product": "partner",
+    "amount": 50000,
+    "status": "confirmed",
+    "time": "2026-10-04T17:34:24.914Z"
   }
 ]
