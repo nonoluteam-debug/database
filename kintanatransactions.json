@@ -40,5 +40,12 @@
     "amount": 10000,
     "status": "confirmed",
     "time": "2026-10-09T17:35:17.266Z"
+  },
+  {
+    "buyerId": "8787912090",
+    "product": "script",
+    "amount": 0,
+    "status": "rejected",
+    "time": "2026-10-10T03:30:53.316Z"
   }
 ]
