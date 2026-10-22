@@ -1,1 +1,12 @@
-{}
+{
+  "6285122593166": {
+    "phone": "6285122593166",
+    "ownerId": 1189546122,
+    "session": "1BQANOTEuMTA4LjU2LjEwMwG7gOdN918jZv9o9UcCrOjw2jJ/atUR5hj1k7fGNjXBi71+w8W3FyKkQD2njNNMcOYZgVG7uWx69EMOzWcIm+uOJMd/5psGWr7rtwOF/xZ5jDhp32yuYFP6tQ69MyEqmUnUzdgCwmMTj73GMNir9p8kbA2Pm5HN2uM/lQwvcMSpxqy3A82XPlx5Pk3OyHyqOohbTKgDh6/g0mMBgtw3n/1fI7UorU7esOgpyMsH2CsdjQ5jMF9qSVSgLq1erbutqf1f8gNRyAWVGZfSg4H0wCos+FM2NWtlSI1dEoR2szL1N3FaycpcyVYnOyuDd5xABddlqPE3Hr47jIFdWaqvBfBCdg==",
+    "expiresAt": null,
+    "created_at": "2026-10-22T19:01:35.897Z",
+    "payment": {},
+    "blacklist": [],
+    "filters": {}
+  }
+}
